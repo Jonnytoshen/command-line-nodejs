@@ -1,0 +1,25 @@
+{
+  "name": "command-line-nodejs",
+  "version": "0.0.0",
+  "description": "Learn how to build a command-line with nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ns": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonnytoshen/command-line-nodejs.git"
+  },
+  "author": "Jonny Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jonnytoshen/command-line-nodejs/issues"
+  },
+  "homepage": "https://github.com/Jonnytoshen/command-line-nodejs#readme",
+  "devDependencies": {
+    "commander": "^2.18.0"
+  }
+}
